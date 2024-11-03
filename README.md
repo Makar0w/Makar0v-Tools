@@ -1,7 +1,7 @@
 # Makar0v-Tools
 It an tools i made will 3 hours
 Code made by Makar0v
-Contact me on discord dinerbone._
+Contact me on discord ._makar0v_.
 It's a simple Tools box made in around
 2 hours with a 20-minute break, so it's not perfect,
 but you can use the code in your project :)
